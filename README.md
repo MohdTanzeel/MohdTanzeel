@@ -16,9 +16,9 @@ I'm Tanzeel. I'm a full-Stack Developer love building utilities aimed to increas
 5. 🎉 Merged PR [#29](https://github.com/jamesgeorge007/csstox/pull/29) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7455](https://github.com/MohdTanzeel/*/pull/XX) in [MohdTanzeel/LinkFree/](https://github.com/MohdTanzeel/repository-name)
-2. 🎉 Merged PR [#02](https://github.com/MohdTanzeel/*/pull/XX) in [MohdTanzeel/hacktoberfest-practice ](https://github.com/MohdTanzeel/repository-name2)
-3. 🎉 Merged PR [#XX](https://github.com/MohdTanzeel/*/pull/XX) in [MohdTanzeel/repository-name3](https://github.com/MohdTanzeel/repository-name3)
+1. 🎉 Merged PR [#7585](https://github.com/MohdTanzeel/*/pull/XX) in [MohdTanzeel/LinkFree/](https://github.com/MohdTanzeel/repository-name)
+<!--3. 🎉 Merged PR [#02](https://github.com/MohdTanzeel/*/pull/XX) in [MohdTanzeel/hacktoberfest-practice ](https://github.com/MohdTanzeel/repository-name2)
+<!--4. 🎉 Merged PR [#XX](https://github.com/MohdTanzeel/*/pull/XX) in [MohdTanzeel/repository-name3](https://github.com/MohdTanzeel/repository-name3) -->
 <!--END_SECTION:activity-->
 
 <!--END_SECTION:activity-->
