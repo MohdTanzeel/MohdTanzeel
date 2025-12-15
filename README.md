@@ -6,7 +6,7 @@ I'm Tanzeel. I'm a full-Stack Developer love building utilities aimed to increas
 <!--
 <a href="https://app.daily.dev/Mohd Tanzeel"><img src="https://github.com/MohdTanzeel/MohdTanzeel/blob/main/devcard.svg" width="200" alt="Tanzeel's Dev Card"/></a>
 -->
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/mohd1_tanzeel) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mohd-tanzeel-860899221/)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://x.com/tanzeil0) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mohd-tanzeel-860899221/)
 
 
 ### ⚡: Recent Activity  
